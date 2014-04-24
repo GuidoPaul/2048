@@ -15,10 +15,10 @@ The main interface is as follows :
 ## Start
 
 	cd 2048
-	python 2048
+	python 2048.py
 
 ## Play
-You only need to press the 'a'(Left), 'w'(Up), 'd'(Right), 's'(Down), then press "Enter".
+You only need to press the 'a'(Left), 'w'(Up), 'd'(Right) or 's'(Down), then press "Enter".
 
 Yes, It really is that simple.
 
