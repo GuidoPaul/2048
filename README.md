@@ -10,7 +10,7 @@ The main interface is as follows :
 
 ## Download
 
-	git clone git@github.com:GuidoPaul/2048.git
+	git clone https://github.com/GuidoPaul/2048.git
 
 ## Start
 
