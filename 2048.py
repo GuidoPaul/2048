@@ -207,7 +207,8 @@ def play(n, target, debug = False):
 			moved = Swap(gc, dir)
 			if dir != None:
 				set_random_number(gc, 0)
-			if moved and debug:
+			# if moved and debug:
+			if debug:
 				print_board(target, gc)
 	return state
 
