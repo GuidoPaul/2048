@@ -4,7 +4,7 @@ This is a small program written by Python.
 
 The main interface is as follows :
 
-![Play 2048](/images/2048.png)
+![Play 2048](/images/python_terminal_2048.png)
 
 # How to play?
 
